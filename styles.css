@@ -1,0 +1,78 @@
+html {
+    background-color: hsl(47, 88%, 63%);
+}
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: last baseline;
+    height: 100vh;
+}
+
+#card {
+    background-color: hsl(0, 0%, 100%);
+    border: solid 1px;
+    box-shadow: 10px 10px 0 #000;
+    border-radius: 5%;
+    flex-direction: column;
+    display: block;
+    margin: auto;
+    padding: 25px;
+    width: 320px;
+    font-family: "Figtree";
+}
+
+#graphic {
+    border-radius: 5%;
+    width: 100%;
+}
+.author img {
+    width: 45px;
+    padding-top: 15px;
+}
+h1, h2, #card p, h4 {
+    font-size: 16px;
+}
+h1, h3, h4 {
+    font-weight: 800;
+}
+h2, h3, #card p {
+    width: 100%;
+}
+h2, #card p {
+    font-weight: 500;
+}
+.author img, h4 { 
+    display: inline-block;
+    margin: 0;
+}
+
+h1 {
+    background-color: hsl(47, 88%, 63%);
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px 5px;
+}
+h2 {
+    color: hsl(0, 0%, 7%);
+}
+h4 {
+    position: relative;
+    bottom: 19.5px;
+    padding-left: 10px;
+}
+p {
+    color: hsl(0, 0%, 42%);
+}
+
+
+
+
+
+    
+ 
+
+.attribution {
+    width: 100%;
+    margin-bottom: 0px;
+}
