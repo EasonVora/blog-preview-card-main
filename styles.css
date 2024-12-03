@@ -22,13 +22,21 @@ body {
     width: 320px;
     font-family: "Figtree";
 }
+.link {
+    color: #000;
+    text-decoration: none;
+}
+.link:hover {
+    cursor: pointer;
+}
+.link:active {
+    cursor: pointer;
+    color: hsl(47, 88%, 63%);
+}
+
 
 #graphic {
     border-radius: 5%;
-}
-.author img {
-    width: 45px;
-    padding-top: 15px;
 }
 h1, h2, #card p, h4 {
     font-size: 16px;
@@ -41,6 +49,10 @@ h1, h3, h4 {
 }
 h2, #card p {
     font-weight: 500;
+}
+.author img {
+    width: 45px;
+    padding-top: 15px;
 }
 .author img, h4 { 
     display: inline-block;
@@ -55,17 +67,6 @@ h1 {
 }
 h2 {
     color: hsl(0, 0%, 7%);
-}
-h3 a, .author a {
-    color: #000;
-    text-decoration: none;
-}
-h3 a:hover, .author a:hover {
-    cursor: pointer;
-}
-h3 a:active, .author a:active {
-    cursor: pointer;
-    color: hsl(47, 88%, 63%);
 }
 h4 {
     position: relative;
