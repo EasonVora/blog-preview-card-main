@@ -38,14 +38,14 @@ body {
 #graphic {
     border-radius: 5%;
 }
-h1, h2, #card p, h4 {
+#graphic, h2, h3, #card p {
+    width: 100%;
+}
+h1, #card p, h4 {
     font-size: 16px;
 }
 h1, h3, h4 {
     font-weight: 800;
-}
-#graphic, h2, h3, #card p {
-    width: 100%;
 }
 h2, #card p {
     font-weight: 500;
@@ -67,6 +67,11 @@ h1 {
 }
 h2 {
     color: hsl(0, 0%, 7%);
+    margin-top: 5px;
+    font-size: 14px;
+}
+h3 {
+    font-size: 18pt;
 }
 h4 {
     position: relative;
@@ -75,6 +80,7 @@ h4 {
 }
 p {
     color: hsl(0, 0%, 42%);
+    line-height: 2;
 }
 
 .attribution {
