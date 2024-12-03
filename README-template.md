@@ -23,33 +23,37 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+![./assets/images/solution-screenshot-desktop.png] (Desktop Solution)
+![./assets/images/solution-screenshot-mobile.png] (Mobile Solution)
+![./assets/images/solution-screenshot-active1.png] (Active Link 1)
+![./assets/images/solution-screenshot-active2.png] (Active Link 2)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://easonvora.github.io/qr-code-component-main/]
 
 ## My process
+1. Edit HTML to have typographical elements like headings and paragraphs.
+2. Add colors, card border, box shadow, and specified typography.
+3. Add images
+4. Adjust padding and margins for all elements.
+5. Align [.author] image and [h4] text to be next to each other.
+6. Adjust image sizes.
+7. Readjust [.author] image and [h4] text be realigned.
+8. Add hover and active states to [h3]'s anchor element.
+9. Add links to [.author]
+10. Apply step 8 states to [.author].
+11. Minor adjustments
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- Semantic HTML5
+- CSS
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- Google Fonts
+- VSCode
+- GitHub
 
 ### What I learned
 
