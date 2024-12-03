@@ -63,15 +63,17 @@ h1 {
     background-color: hsl(47, 88%, 63%);
     display: inline-block;
     padding: 5px 10px;
+    margin-top: 20px;
     border-radius: 5px 5px;
 }
 h2 {
     color: hsl(0, 0%, 7%);
-    margin-top: 5px;
+    margin-top: 0;
     font-size: 14px;
 }
 h3 {
     font-size: 18pt;
+    line-height: .8;
 }
 h4 {
     position: relative;
@@ -80,7 +82,7 @@ h4 {
 }
 p {
     color: hsl(0, 0%, 42%);
-    line-height: 2;
+    line-height: 1.5;
 }
 
 .attribution {
