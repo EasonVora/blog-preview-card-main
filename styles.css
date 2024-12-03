@@ -9,6 +9,7 @@ body {
     height: 100vh;
 }
 
+
 #card {
     background-color: hsl(0, 0%, 100%);
     border: solid 1px;
@@ -16,7 +17,7 @@ body {
     border-radius: 5%;
     flex-direction: column;
     display: block;
-    margin: auto 20px;
+    margin: auto 30px;
     padding: 25px;
     width: 320px;
     font-family: "Figtree";
@@ -55,6 +56,17 @@ h1 {
 h2 {
     color: hsl(0, 0%, 7%);
 }
+h3 a, .author a {
+    color: #000;
+    text-decoration: none;
+}
+h3 a:hover, .author a:hover {
+    cursor: pointer;
+}
+h3 a:active, .author a:active {
+    cursor: pointer;
+    color: hsl(47, 88%, 63%);
+}
 h4 {
     position: relative;
     bottom: 19.5px;
@@ -63,13 +75,6 @@ h4 {
 p {
     color: hsl(0, 0%, 42%);
 }
-
-
-
-
-
-    
- 
 
 .attribution {
     width: 100%;
