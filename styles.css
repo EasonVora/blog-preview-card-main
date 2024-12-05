@@ -12,10 +12,14 @@ body {
 
 #card {
     background-color: hsl(0, 0%, 100%);
-    font-family: "Figtree";display: block;flex-direction: column;
-    border: solid 1px;border-radius: 5%;
+    font-family: "Figtree";
+    display: block;
+    flex-direction: column;
+    border: solid 1px;
+    border-radius: 5%;
     box-shadow: 10px 10px 0 #000;
-    margin: auto 30px;padding: 25px;
+    margin: auto 30px;
+    padding: 25px;
     width: 320px;
 }
 .link {
