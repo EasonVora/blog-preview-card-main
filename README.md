@@ -63,4 +63,4 @@ Users should be able to:
 - GitHub - [@EasonVora](https://github.com/EasonVora)
 - Frontend Mentor - [@EasonVora](https://www.frontendmentor.io/profile/EasonVora)
 - LinkedIn - [Eason Vora](https://www.linkedin.com/in/eason-vora-5a043b262/)
-
+- Instagram - [@vora_mota_bhai](https://www.instagram.com/vora_mota_bhai/)
